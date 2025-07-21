@@ -77,9 +77,13 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     },
-    "liangzi": {
+    "shenlin": {
       "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
-      "name": "量子资源"
-    }
+      "name": "森林资源"
+    },
+    "aosika": {
+      "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
+      "name": "奥斯卡资源"
+    },
   }
 }
