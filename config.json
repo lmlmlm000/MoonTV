@@ -84,6 +84,6 @@
     "aosika": {
       "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
       "name": "奥斯卡资源"
-    },
+    }
   }
 }
