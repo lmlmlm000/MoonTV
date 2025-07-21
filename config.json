@@ -81,9 +81,9 @@
       "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
       "name": "森林资源"
     },
-    "aosika": {
-      "api": "https://askjxbf.com/play.html?url=",
-      "name": "奥斯卡资源"
+    "115": {
+      "api": "https://155api.com/api.php/provide/vod/?ac=list",
+      "name": "115资源"
     }
   }
 }
